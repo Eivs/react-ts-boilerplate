@@ -1,0 +1,10 @@
+{
+  "eslint.enable": false,
+  "tslint.enable": true,
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "prettier.stylelintIntegration": true,
+  "editor.tabSize": 2,
+  "beautify.tabSize": 2
+}
